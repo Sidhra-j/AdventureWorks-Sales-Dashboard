@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Sales Dashboard 2021
+# AdventureWorks Sales Dashboard 2021
 
 An interactive Power BI dashboard analyzing 23,900+ sales transactions from 2021.
 
